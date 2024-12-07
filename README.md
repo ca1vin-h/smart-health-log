@@ -44,7 +44,7 @@ Set it up with a root cron entry to make it easy to check when drives failed. No
    - Appends a timestamped message indicating the health status of all checked drives.
    - `2024-12-06 10:30:00 - The following drives failed: sdb`
   
-##Disclaimer
+## Disclaimer
 
 Use this script at your own risk. Always back up your data before diagnosing or testing storage devices.
   
